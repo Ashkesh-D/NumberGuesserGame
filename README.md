@@ -1,7 +1,7 @@
 # Number Guesser Game
 A fun and challenging number guessing game with difficulty levels, stats tracking, and performance metrics! Can you beat the impossible levels and become the ultimate number master?
 
-Features
+## Features
 
 Multiple Difficulty Levels:
 
@@ -15,13 +15,13 @@ Impossible: 1–9999, 30 guesses
 
 IM-IM-IM-POSSIBLE: 1–999999, 40 guesses
 
-Interactive Feedback:
+## Interactive Feedback:
 
 "Too high" or "Too low" hints after each guess
 
 Average distance from the secret number displayed at the end
 
-Stats Tracking:
+## Stats Tracking:
 
 Records wins and losses
 
