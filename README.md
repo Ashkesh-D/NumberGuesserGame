@@ -3,28 +3,22 @@ A fun and challenging number guessing game with difficulty levels, stats trackin
 
 ## Features
 
-Multiple Difficulty Levels:
+This game consists of five levels!
+- Easy: 1–100, 7 guesses
+- Medium: 1–500, 10 guesses
+- Hard: 1–1000, 15 guesses
+- Impossible: 1–9999, 30 guesses
+- IM-IM-IM-POSSIBLE: 1–999999, 40 guesses
 
-Easy: 1–100, 7 guesses
+They are easy yet possible to play! Enjoy the fun!
 
-Medium: 1–500, 10 guesses
+## Statistic Tracking
+It records wins and losses.
+It also racks number of guesses and average distance
+It also automatically creates and saves results to ng_stats.txt for future reference!
 
-Hard: 1–1000, 15 guesses
+## How to Run this game?
 
-Impossible: 1–9999, 30 guesses
-
-IM-IM-IM-POSSIBLE: 1–999999, 40 guesses
-
-## Interactive Feedback:
-
-"Too high" or "Too low" hints after each guess
-
-Average distance from the secret number displayed at the end
-
-## Stats Tracking:
-
-Records wins and losses
-
-Tracks number of guesses and average distance
-
-Saves results to ng_stats.txt for future reference
+Either paste this into your IDE and run it directly!
+Or create and **SAVE** this file, and go into your IDE's terminal and run ```python NumberGuesser.py ```! 
+Change the name of the file in this run code to your file name!
